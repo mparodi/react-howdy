@@ -1,3 +1,19 @@
+{ 'react-howdy': '0.1.0',
+  npm: '5.3.0',
+  ares: '1.10.1-DEV',
+  cldr: '31.0.1',
+  http_parser: '2.7.0',
+  icu: '59.1',
+  modules: '57',
+  nghttp2: '1.25.0',
+  node: '8.6.0',
+  openssl: '1.0.2l',
+  tz: '2017b',
+  unicode: '9.0',
+  uv: '1.14.1',
+  v8: '6.0.287.53',
+  zlib: '1.2.11' }
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
